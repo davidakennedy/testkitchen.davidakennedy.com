@@ -3,3 +3,9 @@
   to = "https://testkitchen.davidakennedy.com/:splat"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "https://www.testkitchen.davidakennedy.com/*"
+  to = "https://testkitchen.davidakennedy.com/:splat"
+  status = 301
+  force = true
