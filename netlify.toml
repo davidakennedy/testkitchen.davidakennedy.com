@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://testkitchen-davidakennedy.netlify.app/*"
+  to = "https://testkitchen.davidakennedy.com/:splat"
+  status = 301
+  force = true
