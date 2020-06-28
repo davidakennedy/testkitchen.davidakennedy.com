@@ -4,7 +4,7 @@
   status = 301
   force = true
 
-  [[redirects]]
+[[redirects]]
   from = "https://www.testkitchen.davidakennedy.com/*"
   to = "https://testkitchen.davidakennedy.com/:splat"
   status = 301
